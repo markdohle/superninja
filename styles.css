@@ -2,7 +2,7 @@
 font, color, navigation, image, styled links, use of grid layout, which will be assessed by looking at the link to yourr CSS file
 */
 
-/*Start of Holy Grail grid*/
+/*Start of Holy Grail grid */
 .grid{
     display: grid;
     grid-template-columns: 200px 1fr 200px;
