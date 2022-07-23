@@ -18,3 +18,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 
 # html
 ```<a href="/superninja/contact.html">superninja contacts</a>``` Anchor Tag <a>: Link to an html; file path starts with /insert repo name/insert file
+
+# GitHub [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+
+Use this link to format your README. You can create ```quote code like this``` or format lists or create links or add images. There are many things you can do to communicate clearly.
