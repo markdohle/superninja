@@ -13,4 +13,4 @@ Commit changes to repo via CODE JS Terminal
     (git push origin site) - push the branch "site" to the repo.
     Project: Might not want to serve up the project using the main branch. We might want a web site to accompany the project, not host the project.
 
-Anchor Tag <a>: Link to an HTML; <a href="/contact.html"></a>
+Anchor Tag <a>: Link to an HTML; <a href="/superninja/contact.html">Contact</a>
