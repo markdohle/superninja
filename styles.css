@@ -1,3 +1,7 @@
+/*
+font, color, navigation, image, styled links, use of grid layout, which will be assessed by looking at the link to yourr CSS file
+*/
+
 .grid{
     display: grid;
     grid-template-columns: 200px 1fr 200px;
@@ -19,4 +23,32 @@ p{
 
 a{
     font-size: 0.5em;
+}
+
+/*
+Navigation Bar Reference
+https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_black
+*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
