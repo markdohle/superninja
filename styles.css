@@ -2,6 +2,7 @@
 font, color, navigation, image, styled links, use of grid layout, which will be assessed by looking at the link to yourr CSS file
 */
 
+/*Start of Holy Grail grid*/
 .grid{
     display: grid;
     grid-template-columns: 200px 1fr 200px;
@@ -17,6 +18,9 @@ header, aside, article, footer{
     background: silver;
     font-size: 2em;
 }
+
+/*End of Holy Grail grid*/
+
 p{
     font-size: 0.5em;
 }
