@@ -28,3 +28,7 @@ You need to set up an [SSH key](https://docs.github.com/en/authentication/connec
 # GitHub [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Use this link to format your README. You can create ```quote code like this``` or format lists or create links or add images. There are many things you can do to communicate clearly.
+
+# Styles CSS
+
+Grid: MIT xPro Week 8; Video 8-7 (6:08) Holy Grail
