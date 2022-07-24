@@ -5,7 +5,7 @@ font, color, navigation, image, styled links, use of grid layout, which will be 
 /*Start of Holy Grail grid */
 .grid{
     display: grid;
-    grid-template-columns: 100px 1fr 200px;
+    grid-template-columns: 200px 1fr 200px;
     grid-template-rows: auto 1fr auto;
     gap: 5px;
     height: 90vh;
