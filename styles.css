@@ -81,17 +81,11 @@ img {
   text-align: center;
   text-decoration: none;
   display: flex;
-  /*display: inline-block;*/
   justify-content: center;
   align-items: center;
-  /*margin: 0;*/
-  /*position: absolute;*/
-  /*top: 0%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);*/
 }
 
 a:hover, a:active {
   background-color: #111;
+
 }
