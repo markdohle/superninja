@@ -36,3 +36,5 @@ Grid: MIT xPro Week 8; Video 8-7 (6:08) Holy Grail
 # Local Server
 ```npx http-server```
 In Terminal, goto directory and create a local host for that directory.
+
+# [Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
