@@ -32,3 +32,7 @@ Use this link to format your README. You can create ```quote code like this``` o
 # Styles CSS
 
 Grid: MIT xPro Week 8; Video 8-7 (6:08) Holy Grail
+  
+# Local Server
+```npx http-server```
+In Terminal, goto directory and create a local host for that directory.
