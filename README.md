@@ -20,7 +20,7 @@ You need to set up an [SSH key](https://docs.github.com/en/authentication/connec
 
 ```git push origin main``` push changes to the "main" branch in your github repository.
 
-```git checkout -b site``` creates a new branch called "site". Make a new branch, then goto github and use pull request to merge with main branch Project: Might not want to serve up the project using the main branch. We might want a web site to accompany the project, not host the project.
+```git checkout -b site``` creates a new branch called "site". Make a new branch, then goto github and use pull request to merge with main branch Project: Might not want to serve up the project using the main branch. We might want a web site to accompany the project, not host the project. [Add, remove switch branches](https://devconnected.com/how-to-switch-branch-on-git/)
 
 # html
 ```<a href="/superninja/contact.html">superninja contacts</a>``` Anchor Tag <a>: Link to an html; file path starts with /insert repo name/insert file
