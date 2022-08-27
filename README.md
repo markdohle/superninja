@@ -12,9 +12,9 @@ I wasted a lot of time trying to understand how to create and modify repositorie
 
 You need to set up an [SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) before you can use the ```git``` commands listed below.
 
-Create a new repository at GitHub.com and copy the SSH key. Open terminal to the directory that contains your code.
+Create a new repository at GitHub.com and copy the SSH key. Open terminal to the directory that you want the repository to be created in.
 
-```git clone replace this text with ssh key```
+```git clone replace this text with ssh key``` then create or move code into the new directory.
 
 ```git status``` check branch
 
